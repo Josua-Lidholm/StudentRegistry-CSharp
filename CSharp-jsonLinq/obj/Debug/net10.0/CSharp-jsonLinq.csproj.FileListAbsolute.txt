@@ -1,0 +1,15 @@
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/bin/Debug/net10.0/CSharp-jsonLinq
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/bin/Debug/net10.0/CSharp-jsonLinq.deps.json
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/bin/Debug/net10.0/CSharp-jsonLinq.runtimeconfig.json
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/bin/Debug/net10.0/CSharp-jsonLinq.dll
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/bin/Debug/net10.0/CSharp-jsonLinq.pdb
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/CSharp-jsonLinq.GeneratedMSBuildEditorConfig.editorconfig
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/CSharp-jsonLinq.AssemblyInfoInputs.cache
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/CSharp-jsonLinq.AssemblyInfo.cs
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/CSharp-jsonLinq.csproj.CoreCompileInputs.cache
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/CSharp-jsonLinq.dll
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/refint/CSharp-jsonLinq.dll
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/CSharp-jsonLinq.pdb
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/CSharp-jsonLinq.genruntimeconfig.cache
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/ref/CSharp-jsonLinq.dll
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/bin/Debug/net10.0/students.json
