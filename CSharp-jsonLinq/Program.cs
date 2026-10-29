@@ -25,6 +25,9 @@ while (running == true)
     Console.WriteLine("4. Visa antal elever per program.");
     Console.WriteLine("5. På väg...");
     Console.WriteLine("6. Kolla om alla undersköterskor har fått godkänt.");
+    Console.WriteLine("7. Visa äldsta studenten.");
+    Console.WriteLine("8. Visa top 5 i betyg");
+    Console.WriteLine("9. Visa elever och hur långt de har kommit i utbildningen.");
     Console.WriteLine("Fler alternativ kommer...");
 
     var input = Console.ReadKey(true);
@@ -89,6 +92,58 @@ while (running == true)
             Console.Clear();
 
             Console.WriteLine(studentUtils.AllNursesStudentsArePassing());
+            
+            Console.ReadKey();
+            
+            break;
+        case ConsoleKey.D7:
+            Console.Clear();
+
+            var oldestStudent = studentUtils.GetOldestStudent();
+
+            Console.WriteLine($"{oldestStudent[0].Name}: {oldestStudent[0].Birthdate}");
+            
+            Console.ReadKey();
+            
+            break;
+        
+        case ConsoleKey.D8:
+            Console.Clear();
+
+            var top5Students = studentUtils.GetTop5Students();
+
+            foreach (var student in top5Students)
+            {
+                Console.WriteLine($"{student.Name}: {student.Grade}");
+            }
+            
+            Console.ReadKey();
+            
+            break;
+            
+        case ConsoleKey.D9:
+            Console.Clear();
+
+            var completionPercentage = studentUtils.GetCompletionPercentage();
+
+            foreach (var s in completionPercentage)
+            {
+                Console.WriteLine($"{s.Key} - {s.Value}%");
+            }
+            
+            Console.ReadKey();
+            
+            break;
+        
+        case ConsoleKey.D0:
+            Console.Clear();
+
+            var nerdyProgram = studentUtils.GetProgramsWithHighAverage();
+            
+            foreach (var s in nerdyProgram)
+            {
+                Console.WriteLine($"{s}");
+            }
             
             Console.ReadKey();
             

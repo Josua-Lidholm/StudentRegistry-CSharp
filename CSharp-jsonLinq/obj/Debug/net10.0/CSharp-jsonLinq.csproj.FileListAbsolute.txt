@@ -13,3 +13,4 @@
 /home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/CSharp-jsonLinq.genruntimeconfig.cache
 /home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/ref/CSharp-jsonLinq.dll
 /home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/bin/Debug/net10.0/students.json
+/home/Dolken/RiderProjects/CSharp-jsonLinq/CSharp-jsonLinq/obj/Debug/net10.0/CSharp-jsonLinq.sourcelink.json

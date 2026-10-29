@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp-jsonLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+757f7ea0d6f45a75f827d2d91e3e449a93036011")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp-jsonLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp-jsonLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
